@@ -1,0 +1,19 @@
+{
+  "name": "supreme-bassoon",
+  "version": "1.0.1",
+  "description": "The supreme-bassoon development package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-citrus/supreme-bassoon.git"
+  },
+  "author": "Daniel Citrus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniel-citrus/supreme-bassoon/issues"
+  },
+  "homepage": "https://github.com/daniel-citrus/supreme-bassoon#readme"
+}
